@@ -1,0 +1,10 @@
+{
+  "name": "realtime-chat-app",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "npm --prefix backend run dev",
+    "dev": "npm --prefix backend run dev",
+    "backend": "npm --prefix backend run dev",
+    "frontend": "npm --prefix frontend run dev"
+  }
+}
